@@ -1,0 +1,14 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Exercice 1: Test des sorties des fonctions MT}{2}{section.1}%
+\contentsline {section}{\numberline {2}Exercice 2: Tirage aléatoire uniforme sur un intervalle}{2}{section.2}%
+\contentsline {section}{\numberline {3}Exercice 3: Reproduction de tirage aléatoire discret}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Simulation discrète avec 3 classes A, B et C}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Simulation discrète avec $n$ classes}{3}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Exercice 4: Reproduction de tirage aléatoire continu}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Vérification de la moyenne}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Vérification de la répartition des sorties}{5}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Exercice 5: Simulation d'une loi non inversible}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Reproduction de la loi normale avec des lancés de dés}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Reproduction de la loi normale avec Box and Muller}{6}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Exercice 6: Les librairies}{7}{section.6}%
+\contentsline {section}{\numberline {7}Fonctions "Outil"}{8}{section.7}%

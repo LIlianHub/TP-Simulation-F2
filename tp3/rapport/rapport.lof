@@ -1,0 +1,9 @@
+\babel@toc {french}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces Sortie de simPi() avec différents nombre de tirage}}{2}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Sortie de meanPI() avec 10 appels de simPi()}}{2}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Sortie de meanPI() avec 40 appels de simPi()}}{3}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Formule pour calculer l'estimateur}}{3}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Formule pour calculer R}}{3}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Sortie de showConfidenceInterval avec 1 million de point et 10 appels de simPi}}{4}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Sortie de showConfidenceInterval avec 1 milliard de point et 10 appels de simPi}}{4}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Sortie de showConfidenceInterval avec 1 milliard de point et 30 appels de simPi}}{4}{figure.8}%

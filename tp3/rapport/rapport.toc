@@ -1,0 +1,13 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Exercice 1: Création d'une fonction qui approche la valeur de PI}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Explication}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Résultats}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Exercice 2: Obtention de PI par la moyenne}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Explication}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Résultats}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Exercice 3: Intervalle de confiance avec la moyenne de PI}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Explication}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}L'estimateur}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Calcul de R}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Calcul de l'intervalle de confiance}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Résultat}{4}{subsection.3.5}%
